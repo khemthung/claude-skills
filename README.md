@@ -1,6 +1,6 @@
 # Claude Code Skills & Plugins
 
-**170 production-ready skills and plugins for Claude Code, OpenAI Codex, and OpenClaw** — reusable expertise bundles that transform AI coding agents into specialized professionals across engineering, product, marketing, compliance, and more.
+**170 production-ready skills and plugins for Claude Code, OpenAI Codex, and OpenClaw** — reusable expertise bundles that transform AI coding agents into specialized professionals across engineering, product, marketing, compliance, and more. 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Skills](https://img.shields.io/badge/Skills-170-brightgreen.svg)](#skills-overview)
